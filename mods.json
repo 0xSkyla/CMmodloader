@@ -1,0 +1,10 @@
+{
+  "mods": [
+    {
+      "name": "Rust - Custom Map",
+      "author": "Skyla",
+      "fileList":"map_pool",
+      "files":["https://cdn.discordapp.com/attachments/1269691537793744896/1277309985813954570/map_pool?ex=66e516df&is=66e3c55f&hm=5cfd5859659be8e0a9fcd006b5899b15584cd380b9f33b2f8e9020db4489c17a&"]
+    }
+  ]
+}
