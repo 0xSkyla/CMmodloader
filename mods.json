@@ -6,7 +6,8 @@
       "author": "a",
       "description": "Replaces default skins with cool new ones",
       "download_url": "https://github.com/0xSkyla/cm-mods/releases/download/v1.0.0/skin_pack.zip",
-      "size_bytes": 2048576
+      "size_bytes": 2048576,
+      "thumbnail_url": "https://cdn.discordapp.com/attachments/1027235645220978819/1502624134709117108/image.png?ex=6a006347&is=69ff11c7&hm=da3aca31312736dff0df88d826806fcb053017d7ea9c25c080006d9f6469caf9&"
     },
     {
       "name": "Custom UI",
@@ -14,7 +15,8 @@
       "author": "a",
       "description": "Dark mode UI overhaul",
       "download_url": "https://github.com/0xSkyla/cm-mods/releases/download/v1.2.0/ui_theme.zip",
-      "size_bytes": 1024000
+      "size_bytes": 1024000,
+      "thumbnail_url": "https://github.com/0xSkyla/cm-mods/releases/download/v1.2.0/ui_theme_thumb.png"
     }
   ]
 }
