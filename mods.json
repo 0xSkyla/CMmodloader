@@ -7,7 +7,7 @@
       "description": "Replaces default skins with cool new ones",
       "download_url": "https://github.com/0xSkyla/cm-mods/releases/download/v1.0.0/skin_pack.zip",
       "size_bytes": 2048576,
-      "thumbnail_url": "https://cdn.discordapp.com/attachments/1027235645220978819/1502624134709117108/image.png?ex=6a006347&is=69ff11c7&hm=da3aca31312736dff0df88d826806fcb053017d7ea9c25c080006d9f6469caf9&"
+      "thumbnail_url": "https://github.com/0xSkyla/cm-mods/releases/download/v1.0.0/skin_pack_thumb.png"
     },
     {
       "name": "Custom UI",
@@ -16,7 +16,16 @@
       "description": "Dark mode UI overhaul",
       "download_url": "https://github.com/0xSkyla/cm-mods/releases/download/v1.2.0/ui_theme.zip",
       "size_bytes": 1024000,
-      "thumbnail_url": "https://github.com/0xSkyla/cm-mods/releases/download/v1.2.0/ui_theme_thumb.png"
+      "thumbnail_url": ""
+    },
+    {
+      "name": "Custom Camo",
+      "version": "1.1.0",
+      "author": "sky",
+      "description": "Replaces fade camo",
+      "download_url": "https://cdn.discordapp.com/attachments/1027235645220978819/1502627310183125133/customcamo.zip?ex=6a00663c&is=69ff14bc&hm=13e692230c835995893481d16001d5ff98d1df0648a4529085e45d31d1cc1618&",
+      "size_bytes": 1024000,
+      "thumbnail_url": ""
     }
   ]
 }
